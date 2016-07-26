@@ -1,4 +1,4 @@
-#Python Recipes
+# Python Recipes
 
 This is a collection of Python recipes developed or collected throughout years
 of practicing Python. Some recipes have been inspired or designed by others and
