@@ -11,7 +11,7 @@ def split(filename, size):
     '''Split a file into pieces.
 
     Output fixed-size pieces of input file to filename.1, filename.2, etc.
-    Believe if or not, this Python version competes with the Unix split(1)
+    Believe it or not, this Python version competes with the Unix split(1)
     command (tests performed on files up to 10 GB), thanks to the use of
     generators.
     '''
